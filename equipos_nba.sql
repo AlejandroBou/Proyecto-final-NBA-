@@ -37,6 +37,8 @@ CREATE TABLE `equipos_nba` (
 -- Volcado de datos para la tabla `equipos_nba`
 --
 
+
+--Conferencia Este:
 INSERT INTO `equipos_nba` (`id`, `nombre`, `conferencia`) VALUES
 (1, 'Atlanta Hawks', 'Este'),
 (2, 'Boston Celtics', 'Este'),
@@ -53,6 +55,8 @@ INSERT INTO `equipos_nba` (`id`, `nombre`, `conferencia`) VALUES
 (13, 'Philadelphia 76ers', 'Este'),
 (14, 'Toronto Raptors', 'Este'),
 (15, 'Washington Wizards', 'Este'),
+
+  --Conferencia Oeste:
 (16, 'Dallas Mavericks', 'Oeste'),
 (17, 'Denver Nuggets', 'Oeste'),
 (18, 'Golden State Warriors', 'Oeste'),
